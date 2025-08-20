@@ -54,8 +54,7 @@ Follow these steps to get the application running on your local machine.
 #### 2. Clone the Repository
 Open your terminal and clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/dovvnloading/Qlearning-grid-worldexplore
 ```
 
 #### 3. Create a Virtual Environment
