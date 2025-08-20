@@ -90,9 +90,8 @@ pip install -r requirements.txt
 1.  **Run the Application:**
     Execute the main Python script from your terminal:
     ```bash
-    python main_script_name.py
+    python Qlearn grid world explorer.py
     ```
-    *(Replace `main_script_name.py` with the actual name of your main file, e.g., `gridworld.py`)*
 
 2.  **Start the Simulation:**
     Click the **"Start"** button to begin the agent's training.
