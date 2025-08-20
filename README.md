@@ -13,6 +13,9 @@ This tool is designed for students, researchers, and enthusiasts to build an int
 
 ---
 
+![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/24462b90-836a-46ae-84b3-c534b32b06ad)
+
+
 ## Features
 
 -   **Real-time Agent Visualization:** Watch the agent explore the 5x5 grid and learn the optimal path to the goal.
